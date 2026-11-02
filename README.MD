@@ -80,8 +80,7 @@ Atualmente na **[WS TECNOLOGIA ]**, onde trabalho com **[EX: microsserviços em 
 <br/>
 
 
-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=7a7a7a&locale=pt-br&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=2C5364&text_color=7a7a7a&locale=pt-br"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=00000000&color=7a7a7a&line=2C5364&point=203A43&area=true&area_color=2C5364&hide_border=true" width="100%"/>
 
