@@ -82,9 +82,3 @@ Atualmente na **[WS TECNOLOGIA ]**, onde trabalho com **[EX: microsserviços em 
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=00000000&color=7a7a7a&line=2C5364&point=203A43&area=true&area_color=2C5364&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
