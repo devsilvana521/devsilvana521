@@ -80,48 +80,7 @@ Atualmente na **[WS TECNOLOGIA ]**, onde trabalho com **[EX: microsserviços em 
 <br/>
 
 
-### [Nome do Projeto 1](https://github.com/SEU-USUARIO/projeto1)
-Descrição curta do problema que resolve e do resultado.
-
-`React` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### [Nome do Projeto 2](https://github.com/SEU-USUARIO/projeto2)
-Descrição curta do problema que resolve e do resultado.
-
-`Python` `FastAPI` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Nome do Projeto 3](https://github.com/SEU-USUARIO/projeto3)
-Descrição curta do problema que resolve e do resultado.
-
-`Java` `Spring Boot` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-### [Nome do Projeto 4](https://github.com/SEU-USUARIO/projeto4)
-Descrição curta do problema que resolve e do resultado.
-
-`TypeScript` `Next.js` `Tailwind`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=7a7a7a&locale=pt-br&include_all_commits=true&count_private=true"/>
+USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=7a7a7a&locale=pt-br&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=2C5364&text_color=7a7a7a&locale=pt-br"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=00000000&color=7a7a7a&line=2C5364&point=203A43&area=true&area_color=2C5364&hide_border=true" width="100%"/>
