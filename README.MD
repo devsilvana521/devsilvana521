@@ -79,23 +79,6 @@ Atualmente na **[WS TECNOLOGIA ]**, onde trabalho com **[EX: microsserviços em 
 
 <br/>
 
-## Experiência
-
-**[CARGO] — [EMPRESA ATUAL]** · *[ANO] – atual*
-- [Conquista com resultado, ex: Reduzi o tempo de resposta da API em 40% com cache em Redis]
-- [Conquista com resultado, ex: Liderei a migração do front-end para React + TypeScript]
-
-**[CARGO] — [EMPRESA ANTERIOR]** · *[ANO] – [ANO]*
-- [Conquista com resultado]
-- [Conquista com resultado]
-
-<br/>
-
-## Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### [Nome do Projeto 1](https://github.com/SEU-USUARIO/projeto1)
 Descrição curta do problema que resolve e do resultado.
