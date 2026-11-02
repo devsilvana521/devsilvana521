@@ -130,18 +130,3 @@ Descrição curta do problema que resolve e do resultado.
 
 <br/>
 
-## Formação & Certificações
-
-- **[CURSO]** — [INSTITUIÇÃO] · *[ANO]*
-- **[CERTIFICAÇÃO, ex: AWS Certified Developer]** — [EMISSOR] · *[ANO]*
-
-<br/>
-
-<div align="center">
-
-**Aberta a novas oportunidades e colaborações.**<br/>
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/) ou [e-mail](mailto:SEU-EMAIL@exemplo.com).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
-
-</div>
