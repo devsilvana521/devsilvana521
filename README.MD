@@ -14,7 +14,7 @@
 
 <br/>
 
-                                                          ## Sobre
+## Sobre
 
 Desenvolvedora **Full Stack Pleno** com **[2 ANOS] anos de experiência** no desenvolvimento de aplicações web, APIs e sistemas corporativos. Atuo de ponta a ponta no ciclo de desenvolvimento, da modelagem de dados ao deploy, com foco em **performance, qualidade de código e experiência do usuário**.
 
