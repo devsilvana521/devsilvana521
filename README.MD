@@ -9,10 +9,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
-<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-2C5364?style=flat-square&logo=googlechrome&logoColor=white" height="28"/></a>
-<a href="https://SEU-CURRICULO.pdf"><img src="https://img.shields.io/badge/Currículo-333333?style=flat-square&logo=readthedocs&logoColor=white" height="28"/></a>
 
 </div>
 
